@@ -1,1 +1,2 @@
 # myLect
+From loc.computer
