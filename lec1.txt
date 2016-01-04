@@ -6,6 +6,15 @@ Major topics
 
 	1. History of epidemiology
 	2. Measures of disease
+		2a. Incidence & Prevalence
+		2b. Relative risks & odds ratios
+
+	3. Study designs
+		3a. Cross sectional
+		3b. Case - control 
+		3c. Cohort
+		3d. Randomized controlled trials
+		3e. Summary
 
 
 
