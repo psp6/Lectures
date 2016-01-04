@@ -16,5 +16,10 @@ Major topics
 		3d. Randomized controlled trials
 		3e. Summary
 
+	4. Validity
+		4a. Bias
+		4b. Confounding
 
+	5. Reliability
+		5a. Precision
 
